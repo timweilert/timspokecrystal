@@ -44,9 +44,9 @@ SageChowSeenText:
 	text "We stand guard in"
 	line "this tower."
 
-	para "Here, we express"
-	line "our gratitude to"
-	cont "honor all #MON."
+	para "Mainly because we"
+	line "lost our jobs and"
+	cont "need some money"
 	done
 
 SageChowBeatenText:
@@ -89,7 +89,7 @@ SproutTower1FTeacherText:
 	text "See the pillar"
 	line "shaking?"
 
-	para "People are train-"
+	para "People are danc-"
 	line "ing upstairs."
 	done
 

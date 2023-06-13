@@ -1528,19 +1528,19 @@ _OakText1::
 	line "keep you waiting!"
 
 	para "Welcome to the"
-	line "world of #MON!"
+	line "cave simulator 2.0"
 
 	para "My name is OAK."
 
 	para "People call me the"
-	line "#MON PROF."
+	line "CAVE PROF."
 	prompt
 
 _OakText2::
-	text "This world is in-"
-	line "habited by crea-"
-	cont "tures that we call"
-	cont "#MON.@"
+	text "EWWW! What is that"
+	line "gross thing? It"
+	cont "looks like a frog"
+	cont "from Chernobyl.@"
 	text_end
 
 _OakText3::
@@ -1550,26 +1550,26 @@ _OakText3::
 	text_end ; unused
 
 _OakText4::
-	text "People and #MON"
-	line "live together by"
+	text "I hope this game"
+	line "has a lot less"
 
-	para "supporting each"
-	line "other."
+	para "caves in it."
+	line "Nobody likes those"
 
-	para "Some people play"
-	line "with #MON, some"
-	cont "battle with them."
+	para "I hope you have"
+	line "a fun summer"
+	cont "roadtrip to KC."
 	prompt
 
 _OakText5::
-	text "But we don't know"
-	line "everything about"
-	cont "#MON yet."
+	text "Remember to take"
+	line "breaks and do"
+	cont "other things too"
 
-	para "There are still"
-	line "many mysteries to"
-	cont "solve."
+	para "Ever since my"
+	line "grandson lost"
+	cont "the #MON league"
 
-	para "That's why I study"
-	line "#MON every day."
+	para "He complains and"
+	line "it is annoying"
 	prompt

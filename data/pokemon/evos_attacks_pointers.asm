@@ -19,8 +19,8 @@ EvosAttacksPointers::
 	dw PidgeyEvosAttacks
 	dw PidgeottoEvosAttacks
 	dw PidgeotEvosAttacks
-	dw RattataEvosAttacks
-	dw RaticateEvosAttacks
+	dw BonnieEvosAttacks
+	dw BuffwuffEvosAttacks
 	dw SpearowEvosAttacks
 	dw FearowEvosAttacks
 	dw EkansEvosAttacks
@@ -41,8 +41,8 @@ EvosAttacksPointers::
 	dw NinetalesEvosAttacks
 	dw JigglypuffEvosAttacks
 	dw WigglytuffEvosAttacks
-	dw ZubatEvosAttacks
-	dw GolbatEvosAttacks
+	dw PuppogusEvosAttacks
+	dw WoofagusEvosAttacks
 	dw OddishEvosAttacks
 	dw GloomEvosAttacks
 	dw VileplumeEvosAttacks

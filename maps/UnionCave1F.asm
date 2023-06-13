@@ -155,7 +155,7 @@ HikerDanielAfterBattleText:
 	done
 
 FirebreatherBillSeenText:
-	text "ZUBAT's SUPERSONIC"
+	text "PUPPOGUS's SUPERSONIC"
 	line "keeps confusing"
 	cont "my #MON."
 

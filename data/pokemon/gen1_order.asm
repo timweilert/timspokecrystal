@@ -105,7 +105,7 @@ Pokered_MonIndices:
 	db JOLTEON
 	db VAPOREON
 	db MACHOP
-	db ZUBAT
+	db PUPPOGUS
 	db EKANS
 	db PARAS
 	db POLIWHIRL
@@ -128,7 +128,7 @@ Pokered_MonIndices:
 	db DONPHAN ; MISSINGNO.
 	db GOLDUCK
 	db HYPNO
-	db GOLBAT
+	db WOOFAGUS
 	db MEWTWO
 	db SNORLAX
 	db MAGIKARP
@@ -163,8 +163,8 @@ Pokered_MonIndices:
 	db BLISSEY ; MISSINGNO.
 	db PONYTA
 	db RAPIDASH
-	db RATTATA
-	db RATICATE
+	db BONNIE
+	db BUFFWUFF
 	db NIDORINO
 	db NIDORINA
 	db GEODUDE

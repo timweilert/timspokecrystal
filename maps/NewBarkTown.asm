@@ -262,13 +262,13 @@ NewBarkTownRivalText2:
 NewBarkTownSignText:
 	text "NEW BARK TOWN"
 
-	para "The Town Where the"
-	line "Winds of a New"
-	cont "Beginning Blow"
+	para "The Town That"
+	line "Doesn't Have"
+	cont "Any Caves"
 	done
 
 NewBarkTownPlayersHouseSignText:
-	text "<PLAYER>'s House"
+	text "<PLAYER>'s CRIB"
 	done
 
 NewBarkTownElmsLabSignText:
@@ -276,7 +276,7 @@ NewBarkTownElmsLabSignText:
 	done
 
 NewBarkTownElmsHouseSignText:
-	text "ELM'S HOUSE"
+	text "ELM'S SHACK"
 	done
 
 NewBarkTown_MapEvents:

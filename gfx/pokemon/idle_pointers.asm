@@ -17,8 +17,8 @@ AnimationIdlePointers:
 	dw PidgeyAnimationIdle
 	dw PidgeottoAnimationIdle
 	dw PidgeotAnimationIdle
-	dw RattataAnimationIdle
-	dw RaticateAnimationIdle
+	dw BonnieAnimationIdle
+	dw BuffwuffAnimationIdle
 	dw SpearowAnimationIdle
 	dw FearowAnimationIdle
 	dw EkansAnimationIdle
@@ -39,8 +39,8 @@ AnimationIdlePointers:
 	dw NinetalesAnimationIdle
 	dw JigglypuffAnimationIdle
 	dw WigglytuffAnimationIdle
-	dw ZubatAnimationIdle
-	dw GolbatAnimationIdle
+	dw PuppogusAnimationIdle
+	dw WoofagusAnimationIdle
 	dw OddishAnimationIdle
 	dw GloomAnimationIdle
 	dw VileplumeAnimationIdle

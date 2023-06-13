@@ -19,8 +19,8 @@ KantoMonSpecials:
 	db  35 ; PIDGEY
 	db  50 ; PIDGEOTTO
 	db  70 ; PIDGEOT
-	db  25 ; RATTATA
-	db  50 ; RATICATE
+	db  25 ; BONNIE
+	db  50 ; BUFFWUFF
 	db  31 ; SPEAROW
 	db  61 ; FEAROW
 	db  40 ; EKANS
@@ -41,8 +41,8 @@ KantoMonSpecials:
 	db 100 ; NINETALES
 	db  25 ; JIGGLYPUFF
 	db  50 ; WIGGLYTUFF
-	db  40 ; ZUBAT
-	db  75 ; GOLBAT
+	db  40 ; PUPPOGUS
+	db  75 ; WOOFAGUS
 	db  75 ; ODDISH
 	db  85 ; GLOOM
 	db 100 ; VILEPLUME

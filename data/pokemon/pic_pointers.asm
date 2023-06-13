@@ -38,10 +38,10 @@ PokemonPicPointers::
 	dba_pic PidgeottoBackpic
 	dba_pic PidgeotFrontpic
 	dba_pic PidgeotBackpic
-	dba_pic RattataFrontpic
-	dba_pic RattataBackpic
-	dba_pic RaticateFrontpic
-	dba_pic RaticateBackpic
+	dba_pic BonnieFrontpic
+	dba_pic BonnieBackpic
+	dba_pic BuffwuffFrontpic
+	dba_pic BuffwuffBackpic
 	dba_pic SpearowFrontpic
 	dba_pic SpearowBackpic
 	dba_pic FearowFrontpic
@@ -82,10 +82,10 @@ PokemonPicPointers::
 	dba_pic JigglypuffBackpic
 	dba_pic WigglytuffFrontpic
 	dba_pic WigglytuffBackpic
-	dba_pic ZubatFrontpic
-	dba_pic ZubatBackpic
-	dba_pic GolbatFrontpic
-	dba_pic GolbatBackpic
+	dba_pic PuppogusFrontpic
+	dba_pic PuppogusBackpic
+	dba_pic WoofagusFrontpic
+	dba_pic WoofagusBackpic
 	dba_pic OddishFrontpic
 	dba_pic OddishBackpic
 	dba_pic GloomFrontpic

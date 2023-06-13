@@ -23,8 +23,8 @@ PokemonCries::
 	mon_cry CRY_PIDGEY,      $0df,  $084 ; PIDGEY
 	mon_cry CRY_PIDGEOTTO,   $028,  $140 ; PIDGEOTTO
 	mon_cry CRY_PIDGEOTTO,   $011,  $17f ; PIDGEOT
-	mon_cry CRY_RATTATA,     $000,  $100 ; RATTATA
-	mon_cry CRY_RATTATA,     $020,  $17f ; RATICATE
+	mon_cry CRY_BONNIE,     $000,  $100 ; BONNIE
+	mon_cry CRY_BONNIE,     $020,  $17f ; BUFFWUFF
 	mon_cry CRY_SPEAROW,     $000,  $100 ; SPEAROW
 	mon_cry CRY_FEAROW,      $040,  $120 ; FEAROW
 	mon_cry CRY_EKANS,       $012,  $0c0 ; EKANS
@@ -45,8 +45,8 @@ PokemonCries::
 	mon_cry CRY_VULPIX,      $088,  $0e0 ; NINETALES
 	mon_cry CRY_PIDGEY,      $0ff,  $0b5 ; JIGGLYPUFF
 	mon_cry CRY_PIDGEY,      $068,  $0e0 ; WIGGLYTUFF
-	mon_cry CRY_SQUIRTLE,    $0e0,  $100 ; ZUBAT
-	mon_cry CRY_SQUIRTLE,    $0fa,  $100 ; GOLBAT
+	mon_cry CRY_SQUIRTLE,    $0e0,  $100 ; PUPPOGUS
+	mon_cry CRY_SQUIRTLE,    $0fa,  $100 ; WOOFAGUS
 	mon_cry CRY_ODDISH,      $0dd,  $081 ; ODDISH
 	mon_cry CRY_ODDISH,      $0aa,  $0c0 ; GLOOM
 	mon_cry CRY_VILEPLUME,   $022,  $17f ; VILEPLUME

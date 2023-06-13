@@ -17,8 +17,8 @@ FramesPointers:
 	dw PidgeyFrames
 	dw PidgeottoFrames
 	dw PidgeotFrames
-	dw RattataFrames
-	dw RaticateFrames
+	dw BonnieFrames
+	dw BuffwuffFrames
 	dw SpearowFrames
 	dw FearowFrames
 	dw EkansFrames
@@ -39,8 +39,8 @@ FramesPointers:
 	dw NinetalesFrames
 	dw JigglypuffFrames
 	dw WigglytuffFrames
-	dw ZubatFrames
-	dw GolbatFrames
+	dw PuppogusFrames
+	dw WoofagusFrames
 	dw OddishFrames
 	dw GloomFrames
 	dw VileplumeFrames

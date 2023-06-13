@@ -18,8 +18,8 @@ PokedexDataPointerTable:
 	dw PidgeyPokedexEntry
 	dw PidgeottoPokedexEntry
 	dw PidgeotPokedexEntry
-	dw RattataPokedexEntry
-	dw RaticatePokedexEntry
+	dw BonniePokedexEntry
+	dw BuffwuffPokedexEntry
 	dw SpearowPokedexEntry
 	dw FearowPokedexEntry
 	dw EkansPokedexEntry
@@ -40,8 +40,8 @@ PokedexDataPointerTable:
 	dw NinetalesPokedexEntry
 	dw JigglypuffPokedexEntry
 	dw WigglytuffPokedexEntry
-	dw ZubatPokedexEntry
-	dw GolbatPokedexEntry
+	dw PuppogusPokedexEntry
+	dw WoofagusPokedexEntry
 	dw OddishPokedexEntry
 	dw GloomPokedexEntry
 	dw VileplumePokedexEntry

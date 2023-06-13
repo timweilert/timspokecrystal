@@ -19,8 +19,8 @@ MonMenuIcons:
 	db ICON_BIRD        ; PIDGEY
 	db ICON_BIRD        ; PIDGEOTTO
 	db ICON_BIRD        ; PIDGEOT
-	db ICON_FOX         ; RATTATA
-	db ICON_FOX         ; RATICATE
+	db ICON_FOX         ; BONNIE
+	db ICON_FOX         ; BUFFWUFF
 	db ICON_BIRD        ; SPEAROW
 	db ICON_BIRD        ; FEAROW
 	db ICON_SERPENT     ; EKANS
@@ -41,8 +41,8 @@ MonMenuIcons:
 	db ICON_FOX         ; NINETALES
 	db ICON_JIGGLYPUFF  ; JIGGLYPUFF
 	db ICON_JIGGLYPUFF  ; WIGGLYTUFF
-	db ICON_BAT         ; ZUBAT
-	db ICON_BAT         ; GOLBAT
+	db ICON_FOX         ; PUPPOGUS
+	db ICON_FOX         ; WOOFAGUS
 	db ICON_ODDISH      ; ODDISH
 	db ICON_ODDISH      ; GLOOM
 	db ICON_ODDISH      ; VILEPLUME

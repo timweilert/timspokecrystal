@@ -70,10 +70,10 @@ PlayersNeighborText:
 	para "becoming PROF."
 	line "ELM's assistant."
 
-	para "She really loves"
-	line "#MON!"
+	para "She's madly in"
+	line "love with ELM!"
 
-	para "But then, so do I!"
+	para "But then, so am I!"
 	done
 
 PlayerNeighborRadioText1:

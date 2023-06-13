@@ -17,8 +17,8 @@ NewPokedexOrder:
 	db FEAROW
 	db HOOTHOOT
 	db NOCTOWL
-	db RATTATA
-	db RATICATE
+	db BONNIE
+	db BUFFWUFF
 	db SENTRET
 	db FURRET
 	db PICHU
@@ -37,8 +37,8 @@ NewPokedexOrder:
 	db GEODUDE
 	db GRAVELER
 	db GOLEM
-	db ZUBAT
-	db GOLBAT
+	db PUPPOGUS
+	db WOOFAGUS
 	db CROBAT
 	db CLEFFA
 	db CLEFAIRY

@@ -17,8 +17,8 @@ BitmasksPointers:
 	dw PidgeyBitmasks
 	dw PidgeottoBitmasks
 	dw PidgeotBitmasks
-	dw RattataBitmasks
-	dw RaticateBitmasks
+	dw BonnieBitmasks
+	dw BuffwuffBitmasks
 	dw SpearowBitmasks
 	dw FearowBitmasks
 	dw EkansBitmasks
@@ -39,8 +39,8 @@ BitmasksPointers:
 	dw NinetalesBitmasks
 	dw JigglypuffBitmasks
 	dw WigglytuffBitmasks
-	dw ZubatBitmasks
-	dw GolbatBitmasks
+	dw PuppogusBitmasks
+	dw WoofagusBitmasks
 	dw OddishBitmasks
 	dw GloomBitmasks
 	dw VileplumeBitmasks

@@ -168,8 +168,8 @@ VictoryRoadRivalBeforeText:
 	line "take the #MON"
 	cont "LEAGUE challenge?"
 
-	para "…Don't make me"
-	line "laugh."
+	para "I really hope this"
+	line "is the last cave"
 
 	para "You're so much"
 	line "weaker than I am."

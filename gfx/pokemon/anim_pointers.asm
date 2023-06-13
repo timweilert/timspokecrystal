@@ -17,8 +17,8 @@ AnimationPointers:
 	dw PidgeyAnimation
 	dw PidgeottoAnimation
 	dw PidgeotAnimation
-	dw RattataAnimation
-	dw RaticateAnimation
+	dw BonnieAnimation
+	dw BuffwuffAnimation
 	dw SpearowAnimation
 	dw FearowAnimation
 	dw EkansAnimation
@@ -39,8 +39,8 @@ AnimationPointers:
 	dw NinetalesAnimation
 	dw JigglypuffAnimation
 	dw WigglytuffAnimation
-	dw ZubatAnimation
-	dw GolbatAnimation
+	dw PuppogusAnimation
+	dw WoofagusAnimation
 	dw OddishAnimation
 	dw GloomAnimation
 	dw VileplumeAnimation

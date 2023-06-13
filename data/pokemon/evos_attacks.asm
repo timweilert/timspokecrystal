@@ -25,7 +25,7 @@ BulbasaurEvosAttacks:
 	db 7, LEECH_SEED
 	db 10, VINE_WHIP
 	db 15, POISONPOWDER
-	db 15, SLEEP_POWDER
+	db 15, SLEEP_SPORES
 	db 20, RAZOR_LEAF
 	db 25, SWEET_SCENT
 	db 32, GROWTH
@@ -43,7 +43,7 @@ IvysaurEvosAttacks:
 	db 7, LEECH_SEED
 	db 10, VINE_WHIP
 	db 15, POISONPOWDER
-	db 15, SLEEP_POWDER
+	db 15, SLEEP_SPORES
 	db 22, RAZOR_LEAF
 	db 29, SWEET_SCENT
 	db 38, GROWTH
@@ -61,7 +61,7 @@ VenusaurEvosAttacks:
 	db 7, LEECH_SEED
 	db 10, VINE_WHIP
 	db 15, POISONPOWDER
-	db 15, SLEEP_POWDER
+	db 15, SLEEP_SPORES
 	db 22, RAZOR_LEAF
 	db 29, SWEET_SCENT
 	db 41, GROWTH
@@ -189,7 +189,7 @@ ButterfreeEvosAttacks:
 	db 10, CONFUSION
 	db 13, POISONPOWDER
 	db 14, STUN_SPORE
-	db 15, SLEEP_POWDER
+	db 15, SLEEP_SPORES
 	db 18, SUPERSONIC
 	db 23, WHIRLWIND
 	db 28, GUST
@@ -266,28 +266,29 @@ PidgeotEvosAttacks:
 	db 61, MIRROR_MOVE
 	db 0 ; no more level-up moves
 
-RattataEvosAttacks:
-	db EVOLVE_LEVEL, 20, RATICATE
+BonnieEvosAttacks:
+	db EVOLVE_LEVEL, 20, BUFFWUFF
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
 	db 7, QUICK_ATTACK
-	db 13, HYPER_FANG
-	db 20, FOCUS_ENERGY
-	db 27, PURSUIT
-	db 34, SUPER_FANG
+	db 13, BITE
+	db 20, SLEEP_SPORES
+	db 27, DIG
+	db 34, LICK
+	db 40, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
-RaticateEvosAttacks:
+BuffwuffEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
 	db 1, QUICK_ATTACK
 	db 7, QUICK_ATTACK
-	db 13, HYPER_FANG
-	db 20, SCARY_FACE
-	db 30, PURSUIT
-	db 40, SUPER_FANG
+	db 13, BITE
+	db 20, SLEEP_SPORES
+	db 30, LICK
+	db 40, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
 SpearowEvosAttacks:
@@ -532,30 +533,31 @@ WigglytuffEvosAttacks:
 	db 1, DOUBLESLAP
 	db 0 ; no more level-up moves
 
-ZubatEvosAttacks:
-	db EVOLVE_LEVEL, 22, GOLBAT
+PuppogusEvosAttacks:
+	db EVOLVE_LEVEL, 22, WOOFAGUS
 	db 0 ; no more evolutions
-	db 1, LEECH_LIFE
+	db 1, PSYWAVE
 	db 6, SUPERSONIC
 	db 12, BITE
-	db 19, CONFUSE_RAY
-	db 27, WING_ATTACK
-	db 36, MEAN_LOOK
-	db 46, HAZE
+	db 19, NIGHT_SHADE
+	db 27, TELEPORT
+	db 36, FUTURE_SIGHT
+	db 46, CONFUSE_RAY
+	db 50, PSYCHIC_M
 	db 0 ; no more level-up moves
 
-GolbatEvosAttacks:
+WoofagusEvosAttacks:
 	db EVOLVE_HAPPINESS, TR_ANYTIME, CROBAT
 	db 0 ; no more evolutions
-	db 1, SCREECH
-	db 1, LEECH_LIFE
-	db 1, SUPERSONIC
-	db 6, SUPERSONIC
-	db 12, BITE
-	db 19, CONFUSE_RAY
-	db 30, WING_ATTACK
+	db 1, PSYWAVE
+	db 1, LEER
+	db 1, NIGHT_SHADE
+	db 6, BITE
+	db 12, TELEPORT
+	db 19, FUTURE_SIGHT
+	db 30, CONFUSE_RAY
 	db 42, MEAN_LOOK
-	db 55, HAZE
+	db 55, PSYCHIC_M
 	db 0 ; no more level-up moves
 
 OddishEvosAttacks:
@@ -565,7 +567,7 @@ OddishEvosAttacks:
 	db 7, SWEET_SCENT
 	db 14, POISONPOWDER
 	db 16, STUN_SPORE
-	db 18, SLEEP_POWDER
+	db 18, SLEEP_SPORES
 	db 23, ACID
 	db 32, MOONLIGHT
 	db 39, PETAL_DANCE
@@ -581,7 +583,7 @@ GloomEvosAttacks:
 	db 7, SWEET_SCENT
 	db 14, POISONPOWDER
 	db 16, STUN_SPORE
-	db 18, SLEEP_POWDER
+	db 18, SLEEP_SPORES
 	db 24, ACID
 	db 35, MOONLIGHT
 	db 44, PETAL_DANCE
@@ -634,7 +636,7 @@ VenonatEvosAttacks:
 	db 25, LEECH_LIFE
 	db 28, STUN_SPORE
 	db 33, PSYBEAM
-	db 36, SLEEP_POWDER
+	db 36, SLEEP_SPORES
 	db 41, PSYCHIC_M
 	db 0 ; no more level-up moves
 
@@ -651,7 +653,7 @@ VenomothEvosAttacks:
 	db 28, STUN_SPORE
 	db 31, GUST
 	db 36, PSYBEAM
-	db 42, SLEEP_POWDER
+	db 42, SLEEP_SPORES
 	db 52, PSYCHIC_M
 	db 0 ; no more level-up moves
 
@@ -917,7 +919,7 @@ BellsproutEvosAttacks:
 	db 1, VINE_WHIP
 	db 6, GROWTH
 	db 11, WRAP
-	db 15, SLEEP_POWDER
+	db 15, SLEEP_SPORES
 	db 17, POISONPOWDER
 	db 19, STUN_SPORE
 	db 23, ACID
@@ -934,7 +936,7 @@ WeepinbellEvosAttacks:
 	db 1, WRAP
 	db 6, GROWTH
 	db 11, WRAP
-	db 15, SLEEP_POWDER
+	db 15, SLEEP_SPORES
 	db 17, POISONPOWDER
 	db 19, STUN_SPORE
 	db 24, ACID
@@ -946,7 +948,7 @@ WeepinbellEvosAttacks:
 VictreebelEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, VINE_WHIP
-	db 1, SLEEP_POWDER
+	db 1, SLEEP_SPORES
 	db 1, SWEET_SCENT
 	db 1, RAZOR_LEAF
 	db 0 ; no more level-up moves
@@ -1387,7 +1389,7 @@ ExeggcuteEvosAttacks:
 	db 19, CONFUSION
 	db 25, STUN_SPORE
 	db 31, POISONPOWDER
-	db 37, SLEEP_POWDER
+	db 37, SLEEP_SPORES
 	db 43, SOLARBEAM
 	db 0 ; no more level-up moves
 
@@ -1550,7 +1552,7 @@ ChanseyEvosAttacks:
 TangelaEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, CONSTRICT
-	db 4, SLEEP_POWDER
+	db 4, SLEEP_SPORES
 	db 10, ABSORB
 	db 13, POISONPOWDER
 	db 19, VINE_WHIP
@@ -2529,7 +2531,7 @@ HoppipEvosAttacks:
 	db 10, TACKLE
 	db 13, POISONPOWDER
 	db 15, STUN_SPORE
-	db 17, SLEEP_POWDER
+	db 17, SLEEP_SPORES
 	db 20, LEECH_SEED
 	db 25, COTTON_SPORE
 	db 30, MEGA_DRAIN
@@ -2547,7 +2549,7 @@ SkiploomEvosAttacks:
 	db 10, TACKLE
 	db 13, POISONPOWDER
 	db 15, STUN_SPORE
-	db 17, SLEEP_POWDER
+	db 17, SLEEP_SPORES
 	db 22, LEECH_SEED
 	db 29, COTTON_SPORE
 	db 36, MEGA_DRAIN
@@ -2564,7 +2566,7 @@ JumpluffEvosAttacks:
 	db 10, TACKLE
 	db 13, POISONPOWDER
 	db 15, STUN_SPORE
-	db 17, SLEEP_POWDER
+	db 17, SLEEP_SPORES
 	db 22, LEECH_SEED
 	db 33, COTTON_SPORE
 	db 44, MEGA_DRAIN

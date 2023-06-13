@@ -37,8 +37,8 @@
 	const PIDGEY     ; 10
 	const PIDGEOTTO  ; 11
 	const PIDGEOT    ; 12
-	const RATTATA    ; 13
-	const RATICATE   ; 14
+	const BONNIE    ; 13
+	const BUFFWUFF   ; 14
 	const SPEAROW    ; 15
 	const FEAROW     ; 16
 	const EKANS      ; 17
@@ -59,8 +59,8 @@
 	const NINETALES  ; 26
 	const JIGGLYPUFF ; 27
 	const WIGGLYTUFF ; 28
-	const ZUBAT      ; 29
-	const GOLBAT     ; 2a
+	const PUPPOGUS      ; 29
+	const WOOFAGUS     ; 2a
 	const ODDISH     ; 2b
 	const GLOOM      ; 2c
 	const VILEPLUME  ; 2d

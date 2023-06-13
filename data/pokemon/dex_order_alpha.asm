@@ -71,7 +71,7 @@ AlphabeticalPokedexOrder:
 	db GIRAFARIG
 	db GLIGAR
 	db GLOOM
-	db GOLBAT
+	db WOOFAGUS
 	db GOLDEEN
 	db GOLDUCK
 	db GOLEM
@@ -181,8 +181,8 @@ AlphabeticalPokedexOrder:
 	db RAICHU
 	db RAIKOU
 	db RAPIDASH
-	db RATICATE
-	db RATTATA
+	db BUFFWUFF
+	db BONNIE
 	db REMORAID
 	db RHYDON
 	db RHYHORN
@@ -251,4 +251,4 @@ AlphabeticalPokedexOrder:
 	db XATU
 	db YANMA
 	db ZAPDOS
-	db ZUBAT
+	db PUPPOGUS

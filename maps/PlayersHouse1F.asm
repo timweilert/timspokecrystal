@@ -348,7 +348,7 @@ NeighborText:
 	line "ELM's assistant."
 
 	para "She really loves"
-	line "#MON!"
+	line "PROF. ELM!"
 	done
 
 StoveText:
@@ -359,17 +359,17 @@ StoveText:
 	done
 
 SinkText:
-	text "The sink is spot-"
-	line "less. Mom likes it"
-	cont "clean."
+	text "The sink is full"
+	line "of dishes, mom is"
+	cont "gonna be furious."
 	done
 
 FridgeText:
 	text "Let's see what's"
 	line "in the fridge…"
 
-	para "FRESH WATER and"
-	line "tasty LEMONADE!"
+	para "LECROIS and"
+	line "tasty TOPOCHICO!"
 	done
 
 TVText:

@@ -48,8 +48,8 @@ INCBIN "gfx/footprints/pidgey.1bpp",     footprint_bottom
 ; 017-024 top halves
 INCBIN "gfx/footprints/pidgeotto.1bpp",  footprint_top
 INCBIN "gfx/footprints/pidgeot.1bpp",    footprint_top
-INCBIN "gfx/footprints/rattata.1bpp",    footprint_top
-INCBIN "gfx/footprints/raticate.1bpp",   footprint_top
+INCBIN "gfx/footprints/bonnie.1bpp",    footprint_top
+INCBIN "gfx/footprints/buffwuff.1bpp",   footprint_top
 INCBIN "gfx/footprints/spearow.1bpp",    footprint_top
 INCBIN "gfx/footprints/fearow.1bpp",     footprint_top
 INCBIN "gfx/footprints/ekans.1bpp",      footprint_top
@@ -57,8 +57,8 @@ INCBIN "gfx/footprints/arbok.1bpp",      footprint_top
 ; 017-024 bottom halves
 INCBIN "gfx/footprints/pidgeotto.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/pidgeot.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/rattata.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/raticate.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/bonnie.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/buffwuff.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/spearow.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/fearow.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/ekans.1bpp",      footprint_bottom
@@ -100,8 +100,8 @@ INCBIN "gfx/footprints/ninetales.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/jigglypuff.1bpp", footprint_bottom
 INCBIN "gfx/footprints/wigglytuff.1bpp", footprint_bottom
 ; 041-048 top halves
-INCBIN "gfx/footprints/zubat.1bpp",      footprint_top
-INCBIN "gfx/footprints/golbat.1bpp",     footprint_top
+INCBIN "gfx/footprints/puppogus.1bpp",      footprint_top
+INCBIN "gfx/footprints/woofagus.1bpp",     footprint_top
 INCBIN "gfx/footprints/oddish.1bpp",     footprint_top
 INCBIN "gfx/footprints/gloom.1bpp",      footprint_top
 INCBIN "gfx/footprints/vileplume.1bpp",  footprint_top
@@ -109,8 +109,8 @@ INCBIN "gfx/footprints/paras.1bpp",      footprint_top
 INCBIN "gfx/footprints/parasect.1bpp",   footprint_top
 INCBIN "gfx/footprints/venonat.1bpp",    footprint_top
 ; 041-048 bottom halves
-INCBIN "gfx/footprints/zubat.1bpp",      footprint_bottom
-INCBIN "gfx/footprints/golbat.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/puppogus.1bpp",      footprint_bottom
+INCBIN "gfx/footprints/woofagus.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/oddish.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/gloom.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/vileplume.1bpp",  footprint_bottom

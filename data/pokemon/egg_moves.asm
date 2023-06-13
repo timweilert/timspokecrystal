@@ -45,7 +45,7 @@ PidgeyEggMoves:
 	db FORESIGHT
 	db -1 ; end
 
-RattataEggMoves:
+BonnieEggMoves:
 	db SCREECH
 	db FLAME_WHEEL
 	db FURY_SWIPES
@@ -106,7 +106,7 @@ VulpixEggMoves:
 	db DISABLE
 	db -1 ; end
 
-ZubatEggMoves:
+PuppogusEggMoves:
 	db QUICK_ATTACK
 	db PURSUIT
 	db FAINT_ATTACK
