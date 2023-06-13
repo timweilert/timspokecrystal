@@ -42,6 +42,7 @@ MartCherrygrove:
 	db ANTIDOTE
 	db PARLYZ_HEAL
 	db AWAKENING
+	db EXP_SHARE
 	db -1 ; end
 
 MartCherrygroveDex:
@@ -51,6 +52,7 @@ MartCherrygroveDex:
 	db ANTIDOTE
 	db PARLYZ_HEAL
 	db AWAKENING
+	db EXP_SHARE
 	db -1 ; end
 
 MartViolet:
