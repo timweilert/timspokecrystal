@@ -43,6 +43,7 @@ MartCherrygrove:
 	db PARLYZ_HEAL
 	db AWAKENING
 	db EXP_SHARE
+	db TOWN_MAP
 	db -1 ; end
 
 MartCherrygroveDex:
@@ -53,6 +54,7 @@ MartCherrygroveDex:
 	db PARLYZ_HEAL
 	db AWAKENING
 	db EXP_SHARE
+	db TOWN_MAP
 	db -1 ; end
 
 MartViolet:

@@ -1195,18 +1195,18 @@ JohtoGrassWildMons:
 	; morn
 	db 2, PIDGEY
 	db 2, SENTRET
-	db 3, PIDGEY
+	db 3, BONNIE
 	db 3, SENTRET
 	db 2, BONNIE
-	db 3, HOPPIP
+	db 3, BONNIE
 	db 3, HOPPIP
 	; day
 	db 2, PIDGEY
 	db 2, SENTRET
-	db 3, PIDGEY
+	db 3, BONNIE
 	db 3, SENTRET
 	db 2, BONNIE
-	db 3, HOPPIP
+	db 3, BONNIE
 	db 3, HOPPIP
 	; nite
 	db 2, HOOTHOOT
